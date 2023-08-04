@@ -27,7 +27,7 @@ DATASETS:
   TRAIN_RATIO: 0.7
   EVAL_RATIO: 0.1
   TEST_RATIO: 0.2
-  TRAIN_PATH: 'data/AudioSet/Output_clip_len_0.25_audio_101/AudioSet_embedds_all.h5'
+  TRAIN_PATH: 'data/AudioSet/train/Output_clip_len_0.25_audio_101/AudioSet_embedds_all.h5'
   TEST_PATH: ''
   EVAL_PATH: ''
 TEST:
