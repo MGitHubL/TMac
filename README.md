@@ -6,4 +6,6 @@ This code is based on VAED improvements, thanks to their contributions! you can 
 
 Download the dataset form here: [data](https://livewarwickac-my.sharepoint.com/personal/u1880714_live_warwick_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu1880714%5Flive%5Fwarwick%5Fac%5Fuk%2FDocuments%2FVisually%2Daware%20Acoustic%20Event%20Detection%20using%20Heterogeneous%20Graphs%20Paper%2FProcessed%20AudioSet&ga=1)
 
+You can also download from here (code: 1234): https://pan.baidu.com/s/1kobU4wnoflgNno6tcEqbnQ?pwd=1234
+
 Then put it in this directory: data/AudioSet/
